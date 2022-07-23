@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Ada",
+    "strength": 6,
+    "dexterity": 7,
+    "defence": 3,
+    "speed": 6,
+    "gender": "Female",
+    "price": 3900,
+    "datereleased": "12.11.2014"
+  },
+  {
+    "name": "Arcadia",
+    "strength": 7,
+    "dexterity": 7,
+    "defence": 4,
+    "speed": 4,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "16.3.2022"
+  },
+  {
+    "name": "Artemis",
+    "strength": 5,
+    "dexterity": 5,
+    "defence": 4,
+    "speed": 8,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "14.6.2017"
+  },
+  {
+    "name": "Asuri",
+    "strength": 4,
+    "dexterity": 7,
+    "defence": 5,
+    "speed": 6,
+    "gender": "Female",
+    "price": 3900,
+    "datereleased": "24.9.2015"
+  },
+  {
+    "name": "Azoth",
+    "strength": 7,
+    "dexterity": 5,
+    "defence": 6,
+    "speed": 4,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "6.1.2016"
+  },
+  {
+    "name": "Barraza",
+    "strength": 6,
+    "dexterity": 4,
+    "defence": 8,
+    "speed": 4,
+    "gender": "Male",
+    "price": 3900,
+    "datereleased": "20.10.2015"
+  },
+  {
+    "name": "Bödvar",
+    "strength": 6,
+    "dexterity": 6,
+    "defence": 5,
+    "speed": 5,
+    "gender": "Male",
+    "price": 900,
+    "datereleased": "30.4.2014"
+  },
+  {
+    "name": "Brynn",
+    "strength": 5,
+    "dexterity": 5,
+    "defence": 5,
+    "speed": 7,
+    "gender": "Female",
+    "price": 900,
+    "datereleased": "6.8.2015"
+  },
+  {
+    "name": "Caspian",
+    "strength": 7,
+    "dexterity": 5,
+    "defence": 4,
+    "speed": 6,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "26.7.2017"
+  },
+  {
+    "name": "Cassidy",
+    "strength": 6,
+    "dexterity": 8,
+    "defence": 4,
+    "speed": 4,
+    "gender": "Female",
+    "price": 2300,
+    "datereleased": "30.4.2014"
+  },
+  {
+    "name": "Cross",
+    "strength": 7,
+    "dexterity": 4,
+    "defence": 6,
+    "speed": 5,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "16.11.2016"
+  },
+  {
+    "name": "Diana",
+    "strength": 5,
+    "dexterity": 6,
+    "defence": 5,
+    "speed": 6,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "30.3.2016"
+  },
+  {
+    "name": "Dusk",
+    "strength": 6,
+    "dexterity": 7,
+    "defence": 4,
+    "speed": 5,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "28.11.2018"
+  },
+  {
+    "name": "Ember",
+    "strength": 6,
+    "dexterity": 6,
+    "defence": 3,
+    "speed": 7,
+    "gender": "Female",
+    "price": 900,
+    "datereleased": "11.11.2015"
+  },
+  {
+    "name": "Fait",
+    "strength": 7,
+    "dexterity": 4,
+    "defence": 4,
+    "speed": 7,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "30.1.2019"
+  },
+  {
+    "name": "Gnash",
+    "strength": 7,
+    "dexterity": 3,
+    "defence": 5,
+    "speed": 7,
+    "gender": "Male",
+    "price": 2300,
+    "datereleased": "22.5.2014"
+  },
+  {
+    "name": "Hattori",
+    "strength": 4,
+    "dexterity": 6,
+    "defence": 4,
+    "speed": 8,
+    "gender": "Female",
+    "price": 2300,
+    "datereleased": "26.8.2014"
+  },
+  {
+    "name": "Isaiah",
+    "strength": 5,
+    "dexterity": 6,
+    "defence": 7,
+    "speed": 4,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "7.3.2018"
+  },
+  {
+    "name": "Jaeyun",
+    "strength": 6,
+    "dexterity": 5,
+    "defence": 5,
+    "speed": 6,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "8.7.2020"
+  },
+  {
+    "name": "Jhala",
+    "strength": 7,
+    "dexterity": 7,
+    "defence": 3,
+    "speed": 5,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "27.4.2016"
+  },
+  {
+    "name": "Jiro",
+    "strength": 5,
+    "dexterity": 7,
+    "defence": 3,
+    "speed": 7,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "18.4.2018"
+  },
+  {
+    "name": "Kaya",
+    "strength": 4,
+    "dexterity": 4,
+    "defence": 7,
+    "speed": 7,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "10.1.2018"
+  },
+  {
+    "name": "Koji",
+    "strength": 5,
+    "dexterity": 8,
+    "defence": 4,
+    "speed": 5,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "4.2.2016"
+  },
+  {
+    "name": "Kor",
+    "strength": 6,
+    "dexterity": 5,
+    "defence": 7,
+    "speed": 4,
+    "gender": "Male",
+    "price": 3900,
+    "datereleased": "1.6.2016"
+  },
+  {
+    "name": "Lin Fei",
+    "strength": 3,
+    "dexterity": 8,
+    "defence": 4,
+    "speed": 7,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "30.5.2018"
+  },
+  {
+    "name": "Lucien",
+    "strength": 3,
+    "dexterity": 5,
+    "defence": 6,
+    "speed": 8,
+    "gender": "Male",
+    "price": 2300,
+    "datereleased": "9.1.2015"
+  },
+  {
+    "name": "Magyar",
+    "strength": 5,
+    "dexterity": 4,
+    "defence": 9,
+    "speed": 4,
+    "gender": "???",
+    "price": 5400,
+    "datereleased": "14.1.2021"
+  },
+  {
+    "name": "Mako",
+    "strength": 6,
+    "dexterity": 4,
+    "defence": 4,
+    "speed": 8,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "1.10.2020"
+  },
+  {
+    "name": "Mirage",
+    "strength": 7,
+    "dexterity": 6,
+    "defence": 4,
+    "speed": 5,
+    "gender": "Female",
+    "price": 3900,
+    "datereleased": "11.1.2017"
+  },
+  {
+    "name": "Mordex",
+    "strength": 6,
+    "dexterity": 4,
+    "defence": 5,
+    "speed": 7,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "29.3.2017"
+  },
+  {
+    "name": "Munin",
+    "strength": 5,
+    "dexterity": 6,
+    "defence": 4,
+    "speed": 7,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "13.10.2021"
+  },
+  {
+    "name": "Queen Nai",
+    "strength": 7,
+    "dexterity": 4,
+    "defence": 8,
+    "speed": 3,
+    "gender": "Female",
+    "price": 2300,
+    "datereleased": "10.7.2014"
+  },
+  {
+    "name": "Nix",
+    "strength": 4,
+    "dexterity": 5,
+    "defence": 7,
+    "speed": 6,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "15.2.2017"
+  },
+  {
+    "name": "Onyx",
+    "strength": 5,
+    "dexterity": 4,
+    "defence": 8,
+    "speed": 5,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "16.3.2020"
+  },
+  {
+    "name": "Orion",
+    "strength": 4,
+    "dexterity": 6,
+    "defence": 6,
+    "speed": 6,
+    "gender": "Male",
+    "price": 2300,
+    "datereleased": "30.4.2014"
+  },
+  {
+    "name": "Petra",
+    "strength": 8,
+    "dexterity": 4,
+    "defence": 4,
+    "speed": 6,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "26.6.2019"
+  },
+  {
+    "name": "Ragnir",
+    "strength": 5,
+    "dexterity": 6,
+    "defence": 6,
+    "speed": 5,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "28.9.2016"
+  },
+  {
+    "name": "Rayman",
+    "strength": 5,
+    "dexterity": 5,
+    "defence": 6,
+    "speed": 6,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "6.11.2018"
+  },
+  {
+    "name": "Reno",
+    "strength": 4,
+    "dexterity": 7,
+    "defence": 6,
+    "speed": 5,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "14.4.2021"
+  },
+  {
+    "name": "Sir Roland",
+    "strength": 5,
+    "dexterity": 5,
+    "defence": 8,
+    "speed": 4,
+    "gender": "Male",
+    "price": 2300,
+    "datereleased": "25.11.2014"
+  },
+  {
+    "name": "Scarlet",
+    "strength": 8,
+    "dexterity": 5,
+    "defence": 5,
+    "speed": 4,
+    "gender": "Female",
+    "price": 3900,
+    "datereleased": "12.11.2014"
+  },
+  {
+    "name": "Sentinel",
+    "strength": 5,
+    "dexterity": 4,
+    "defence": 7,
+    "speed": 6,
+    "gender": "Male",
+    "price": 2300,
+    "datereleased": "12.11.2014"
+  },
+  {
+    "name": "Sidra",
+    "strength": 6,
+    "dexterity": 4,
+    "defence": 6,
+    "speed": 6,
+    "gender": "Female",
+    "price": 3900,
+    "datereleased": "19.10.2017"
+  },
+  {
+    "name": "Teros",
+    "strength": 8,
+    "dexterity": 3,
+    "defence": 6,
+    "speed": 5,
+    "gender": "Male",
+    "price": 3900,
+    "datereleased": "10.4.2015"
+  },
+  {
+    "name": "Thatch",
+    "strength": 7,
+    "dexterity": 5,
+    "defence": 3,
+    "speed": 7,
+    "gender": "Male",
+    "price": 3900,
+    "datereleased": "26.8.2014"
+  },
+  {
+    "name": "Thor",
+    "strength": 6,
+    "dexterity": 4,
+    "defence": 7,
+    "speed": 5,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "14.3.2019"
+  },
+  {
+    "name": "Ulgrim",
+    "strength": 6,
+    "dexterity": 3,
+    "defence": 7,
+    "speed": 6,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "2.3.2016"
+  },
+  {
+    "name": "Val",
+    "strength": 4,
+    "dexterity": 5,
+    "defence": 6,
+    "speed": 7,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "24.8.2016"
+  },
+  {
+    "name": "Vector",
+    "strength": 5,
+    "dexterity": 4,
+    "defence": 6,
+    "speed": 7,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "20.9.2019"
+  },
+  {
+    "name": "Volkov",
+    "strength": 4,
+    "dexterity": 8,
+    "defence": 6,
+    "speed": 4,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "18.12.2019"
+  },
+  {
+    "name": "Lord Vraxx",
+    "strength": 4,
+    "dexterity": 8,
+    "defence": 4,
+    "speed": 6,
+    "gender": "Male",
+    "price": 2300,
+    "datereleased": "30.4.2014"
+  },
+  {
+    "name": "Wu Shang",
+    "strength": 5,
+    "dexterity": 7,
+    "defence": 5,
+    "speed": 5,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "13.7.2016"
+  },
+  {
+    "name": "Xull",
+    "strength": 9,
+    "dexterity": 4,
+    "defence": 5,
+    "speed": 4,
+    "gender": "Male",
+    "price": 5400,
+    "datereleased": "22.11.2017"
+  },
+  {
+    "name": "Yumiko",
+    "strength": 4,
+    "dexterity": 7,
+    "defence": 4,
+    "speed": 7,
+    "gender": "Female",
+    "price": 5400,
+    "datereleased": "3.5.2017"
+  },
+  {
+    "name": "Zariel",
+    "strength": 7,
+    "dexterity": 4,
+    "defence": 7,
+    "speed": 4,
+    "gender": "???",
+    "price": 5400,
+    "datereleased": "25.7.2018"
+  }
+]

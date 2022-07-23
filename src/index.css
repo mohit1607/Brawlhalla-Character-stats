@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;600;700&display=swap');
+
+
+*,::after,::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-size: 62.5%;
+  height: 100vh;
+  background: url('./Dataset/gamebackgournd.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Cormorant SC', serif;
+}
